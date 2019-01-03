@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="accentColor" value="7cb342" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="useMaterialFont" value="false" />
+    <option name="compactDropdowns" value="true" />
+    <option name="fileStatusColorsEnabled" value="true" />
+    <option name="userId" value="3104a6fd:16689091835:-8000" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
