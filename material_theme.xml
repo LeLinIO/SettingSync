@@ -8,11 +8,10 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="monochromeIcons" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="useMaterialFont" value="false" />
     <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="7cb342" />
+    <option name="accentColor" value="009688" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="3104a6fd:16689091835:-8000" />
     <option name="version" value="3.5.0.1" />
