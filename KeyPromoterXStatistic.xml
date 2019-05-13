@@ -22,7 +22,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>32</Count>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Logcat">
+        <Item>
+          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>Logcat</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -54,7 +62,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'MainActivity'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
