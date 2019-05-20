@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>81</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -94,7 +94,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -142,7 +142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
