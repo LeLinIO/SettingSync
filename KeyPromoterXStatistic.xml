@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>231</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -78,7 +78,15 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>29</Count>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'⌃⌥O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -86,7 +94,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>10</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -118,7 +126,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'LVMobility'</Description>
-          <Count>10</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LVMobilityAndroid [dependencies]'">
@@ -143,6 +151,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
           <Count>53</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'deleteAll()'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'deleteAll()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'loadAllPrograms()'">
@@ -182,7 +198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LVMobility'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MainActivity'">
