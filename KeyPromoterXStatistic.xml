@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>354</Count>
+          <Count>372</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>42</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -126,7 +126,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'LVMobility'</Description>
-          <Count>73</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LVMobilityAndroid [dependencies]'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LVMobility'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MainActivity'">
@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom Out">
