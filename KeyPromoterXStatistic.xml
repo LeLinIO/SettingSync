@@ -134,7 +134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'LVMobility'</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LVMobilityAndroid [dependencies]'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LVMobility'</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MainActivity'">
