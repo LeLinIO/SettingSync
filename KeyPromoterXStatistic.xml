@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>551</Count>
+          <Count>562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>87</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'deleteAll()'">
@@ -262,7 +262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>39</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
