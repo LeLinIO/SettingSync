@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>678</Count>
+          <Count>684</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -103,6 +103,14 @@
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -166,7 +174,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'LVMobility'</Description>
-          <Count>173</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LVMobilityAndroid [dependencies]'">
