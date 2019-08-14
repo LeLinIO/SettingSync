@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>285</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'deleteAll()'">
@@ -286,7 +286,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
