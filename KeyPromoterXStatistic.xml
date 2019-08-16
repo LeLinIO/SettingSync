@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>779</Count>
+          <Count>780</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>287</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'deleteAll()'">
