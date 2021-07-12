@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="LVSupportUI/src/main/res/drawable/tag_recycler_divider.xml" value="0.41846153846153844" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue.xml" value="0.41846153846153844" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue_default.xml" value="0.41846153846153844" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue_disable.xml" value="0.41846153846153844" />
@@ -15,7 +16,9 @@
         <entry key="app/src/main/res/layout/fragment_onboarding_tutorial_intro.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/fragment_onboarding_welcome.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/fragment_order_something_else.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/fragment_summary.xml" value="0.19934143870314083" />
         <entry key="app/src/main/res/layout/view_language_settings_item.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/view_summarycard.xml" value="0.40989583333333335" />
       </map>
     </option>
   </component>
