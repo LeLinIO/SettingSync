@@ -3,10 +3,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="LVSupportUI/src/main/res/drawable/tag_recycler_divider.xml" value="0.41846153846153844" />
+        <entry key="app/src/debug/res/layout/activity_main.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue.xml" value="0.41846153846153844" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue_default.xml" value="0.41846153846153844" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue_disable.xml" value="0.41846153846153844" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_white.xml" value="0.41846153846153844" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_language_settings.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/fragment_nudge.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/fragment_onboarding_language_selection.xml" value="0.40989583333333335" />
