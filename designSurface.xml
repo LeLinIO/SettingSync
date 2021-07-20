@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.18055555555555555" />
         <entry key="LVSupportUI/src/main/res/drawable/tag_recycler_divider.xml" value="0.41846153846153844" />
         <entry key="app/src/debug/res/layout/activity_main.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/drawable/button_rounded_corner_blue.xml" value="0.41846153846153844" />
