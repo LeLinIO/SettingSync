@@ -23,6 +23,7 @@
         <entry key="app/src/main/res/layout/display_detail_layout.xml" value="0.3921875" />
         <entry key="app/src/main/res/layout/fragment_language_settings.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/fragment_nudge.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/layout/fragment_onboarding_country_selection.xml" value="0.3463541666666667" />
         <entry key="app/src/main/res/layout/fragment_onboarding_language_selection.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/fragment_onboarding_remove_strip.xml" value="0.19934143870314083" />
         <entry key="app/src/main/res/layout/fragment_onboarding_time_setting.xml" value="0.3958333333333333" />
