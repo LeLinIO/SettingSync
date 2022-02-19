@@ -43,6 +43,7 @@
         <entry key="app/src/main/res/layout/view_language_settings_item.xml" value="0.40989583333333335" />
         <entry key="app/src/main/res/layout/view_lastreadingcard.xml" value="0.19322916666666667" />
         <entry key="app/src/main/res/layout/view_summarycard.xml" value="0.40989583333333335" />
+        <entry key="app/src/main/res/xml/about_preference.xml" value="0.196875" />
         <entry key="app/src/main/res/xml/timezones.xml" value="0.40989583333333335" />
       </map>
     </option>
