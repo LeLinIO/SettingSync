@@ -37,6 +37,7 @@
         <entry key="app/src/main/res/layout/fragment_summary.xml" value="0.19934143870314083" />
         <entry key="app/src/main/res/layout/fragment_tag_explanation_dialog.xml" value="0.3020833333333333" />
         <entry key="app/src/main/res/layout/fragment_time_zone_select.xml" value="0.3854166666666667" />
+        <entry key="app/src/main/res/layout/fragment_wifi_password_entry.xml" value="0.4734375" />
         <entry key="app/src/main/res/layout/layout_fragment_filter.xml" value="0.19202898550724637" />
         <entry key="app/src/main/res/layout/layout_onboarding_timezone_item.xml" value="0.42916666666666664" />
         <entry key="app/src/main/res/layout/view_language_selection_list_item.xml" value="0.33229166666666665" />
