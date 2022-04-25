@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="LVMobility/src/main/res/drawable/ic_selected_checkbox.xml" value="0.41041666666666665" />
         <entry key="LVMobility/src/main/res/drawable/ic_show_password.xml" value="0.41041666666666665" />
         <entry key="LVMobility/src/main/res/drawable/ic_sign_in_success.xml" value="0.41041666666666665" />
