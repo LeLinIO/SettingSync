@@ -26,7 +26,8 @@
         <entry key="LVMobility/src/main/res/layout/food_create_info_dialog.xml" value="0.1" />
         <entry key="LVMobility/src/main/res/layout/food_log_drop_down_item.xml" value="0.403125" />
         <entry key="LVMobility/src/main/res/layout/fragment_food_create.xml" value="0.40572916666666664" />
-        <entry key="LVMobility/src/main/res/layout/fragment_food_create_legacy.xml" value="0.5213541666666667" />
+        <entry key="LVMobility/src/main/res/layout/fragment_food_create_legacy.xml" value="0.449" />
+        <entry key="LVMobility/src/main/res/layout/fragment_food_note_edit.xml" value="0.23385416666666667" />
         <entry key="LVMobility/src/main/res/layout/fragment_food_search.xml" value="0.22083333333333333" />
         <entry key="LVSupportUI/src/main/res-design-system/layout/row_list_with_check_mark.xml" value="0.3921875" />
         <entry key="LVSupportUI/src/main/res-design-system/layout/row_list_with_chevron.xml" value="0.3921875" />
