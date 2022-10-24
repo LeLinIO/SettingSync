@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DoYouHaveMeter" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="CCMMenuFragment" />
+        <option value="onResume" />
         <option value="DoYouHaveMeter" />
+        <option value="Setting" />
         <option value="package:com.livongo.lvmobility DoYouHaveMeter" />
         <option value="package:com.livongo.lvmobility " />
         <option value="package:com.livongo.lvmobility" />
