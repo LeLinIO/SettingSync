@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="DeviceFlexFlag" />
     <option name="nonFavorites">
       <list>
+        <option value="DeviceFlexFlag" />
         <option value="CCMMenuFragment" />
         <option value="onResume" />
         <option value="DoYouHaveMeter" />
