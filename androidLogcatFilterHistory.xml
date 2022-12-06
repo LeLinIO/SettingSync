@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.livongo.lvmobility " />
+    <option name="mostRecentlyUsed" value="DeviceFlexSetting" />
     <option name="nonFavorites">
       <list>
+        <option value="DeviceFlexSetting" />
         <option value="com.livongo.lvmobility " />
         <option value="DeviceFlexFlag" />
         <option value="CCMMenuFragment" />
