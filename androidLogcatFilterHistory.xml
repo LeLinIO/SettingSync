@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BGVitalSnapFragment" />
+    <option name="mostRecentlyUsed" value="permissionCamera" />
     <option name="nonFavorites">
       <list>
+        <option value="permissionCamera" />
         <option value="BGVitalSnapFragment" />
+        <option value="fromVitalSnap" />
+        <option value="permission" />
         <option value="13853" />
         <option value="com.livongo.lvmobility " />
         <option value="package:mine" />
