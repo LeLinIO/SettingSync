@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -11,6 +12,6 @@
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="c3e88d" />
     <option name="userId" value="3104a6fd:16689091835:-8000" />
-    <option name="version" value="6.16.2" />
+    <option name="version" value="7.5.4" />
   </component>
 </application>
