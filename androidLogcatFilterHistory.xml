@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="com.livongo.lvmobility permissionCamera" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="com.livongo.lvmobility permissionCamera" />
         <option value="com.livongo.lvmobility " />
         <option value="permissionCamera" />
@@ -22,7 +23,6 @@
         <option value="package:com.livongo.lvmobility " />
         <option value="package:com.livongo.lvmobility" />
         <option value="LV" />
-        <option value="package:min" />
       </list>
     </option>
   </component>
