@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="testOneAppDFButtonText" />
     <option name="nonFavorites">
       <list>
+        <option value="testOneAppDFButtonText" />
+        <option value="test" />
         <option value="package:mine ScreenBlink" />
         <option value="package:mine " />
         <option value="com.livongo.lvmobility permissionCamera" />
@@ -21,8 +23,6 @@
         <option value="DoYouHaveMeter" />
         <option value="Setting" />
         <option value="package:com.livongo.lvmobility DoYouHaveMeter" />
-        <option value="package:com.livongo.lvmobility " />
-        <option value="package:com.livongo.lvmobility" />
       </list>
     </option>
   </component>
