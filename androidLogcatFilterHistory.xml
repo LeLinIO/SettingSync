@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="testOneAppDFButtonText" />
+    <option name="mostRecentlyUsed" value="package:mine MVI" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MVI" />
         <option value="testOneAppDFButtonText" />
         <option value="test" />
         <option value="package:mine ScreenBlink" />
@@ -22,7 +23,6 @@
         <option value="onResume" />
         <option value="DoYouHaveMeter" />
         <option value="Setting" />
-        <option value="package:com.livongo.lvmobility DoYouHaveMeter" />
       </list>
     </option>
   </component>
