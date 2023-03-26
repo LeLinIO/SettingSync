@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Reducer" />
+    <option name="mostRecentlyUsed" value="package:mine BlePairingReducer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine BlePairingReducer" />
         <option value="package:mine Reducer" />
         <option value="package:mine MVI" />
         <option value="testOneAppDFButtonText" />
@@ -22,7 +23,6 @@
         <option value="DeviceFlexFlag" />
         <option value="CCMMenuFragment" />
         <option value="onResume" />
-        <option value="DoYouHaveMeter" />
       </list>
     </option>
   </component>
