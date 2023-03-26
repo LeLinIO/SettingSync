@@ -4,12 +4,13 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine BlePairingReducer" />
+        <option value="package:mine BLE" />
+        <option value="package:mine " />
         <option value="package:mine Reducer" />
         <option value="package:mine MVI" />
         <option value="testOneAppDFButtonText" />
         <option value="test" />
         <option value="package:mine ScreenBlink" />
-        <option value="package:mine " />
         <option value="com.livongo.lvmobility permissionCamera" />
         <option value="com.livongo.lvmobility " />
         <option value="permissionCamera" />
@@ -22,7 +23,6 @@
         <option value="DeviceFlexSetting" />
         <option value="DeviceFlexFlag" />
         <option value="CCMMenuFragment" />
-        <option value="onResume" />
       </list>
     </option>
   </component>
