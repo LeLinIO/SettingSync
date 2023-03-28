@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BlePairingReducer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine BlePairing" />
         <option value="package:mine BlePairingReducer" />
         <option value="package:mine BLE" />
-        <option value="package:mine " />
         <option value="package:mine Reducer" />
         <option value="package:mine MVI" />
         <option value="testOneAppDFButtonText" />
@@ -22,7 +22,6 @@
         <option value="DeviceFlex" />
         <option value="DeviceFlexSetting" />
         <option value="DeviceFlexFlag" />
-        <option value="CCMMenuFragment" />
       </list>
     </option>
   </component>
